@@ -1,6 +1,5 @@
 # NET_Test_v_3.0
 
-README
 
 1 get the two projects from repository  (https://git-scm.com/book/en/v2/Git-Tools-Bundling) back-end and front-end
 2 go to folder from back-end and open project at visual studio
