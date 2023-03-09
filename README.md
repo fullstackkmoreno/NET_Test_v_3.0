@@ -1,10 +1,14 @@
 # NET_Test_v_3.0
 
 
-1 get the two projects from repository  (https://git-scm.com/book/en/v2/Git-Tools-Bundling) back-end and front-end
+1 get the two projects from repository back-end and front-end
 2 go to folder from back-end and open project at visual studio
 3 now go menu tools/package nuget manage/console package manage and execute the commands next:
+to create database:
+open and execute file: 0-Script Data Base 
 to create estados, publicaciones, comentarios tables:
+open and execute file: 1-Script Base ó
+execute the commands next:
 Add-Migration initial1
 Update-Database
 to create SistemaDeUsuarios tables:
